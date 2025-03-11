@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InterviewFace</string>
+    <string name="title">InterviewFace</string>
+    <string name="main_subtitle">Practica tus entrevistas en vivo</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="bottom_description">Mejora tus habilidades de entrevista con práctica en tiempo real</string>
+</resources>
